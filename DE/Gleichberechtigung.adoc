@@ -1,15 +1,26 @@
 = Gleichberechtigung
 
 . Alle Menschen haben die gleichen Rechte und Pflichten.
-. Jeder Mensch soll dazu beitragen, dass die Gleichberechtigung bewahrt wird.
+. Jeder Mensch ist verpflichtet dazu beizutragen, dass die Gleichberechtigung bewahrt wird.
 . Niemand darf wegen seines Geschlechtes, seiner Abstammung, seiner Rasse, seiner Sprache, seiner Heimat und Herkunft, seines Glaubens, seiner religiösen oder politischen Anschauungen benachteiligt oder bevorzugt werden.
 Niemand darf wegen seiner Behinderung benachteiligt werden.
 
-== Auslegung
+== Kommentar
 
-Dieser Leitsatz gilt uneingeschränkt. Dies impliziert, dass es keine Immunität für extrem Reiche und Mächtige, Diplomaten oder Geheimdienste gibt (die es letztlich in dieser Form dann nicht gibt).
+Dieser Leitsatz gilt uneingeschränkt!
+
+Im vorherrschenden System gilt dies nur vordergründig:
+
+* Wer extrem Reich oder Mächtig ist, steht über dem Gesetzt.
+* Wer viel mehr Geld für teure Anwälte hat, kann einen Gerichtsprozess gewinnen, obwohl er im Unrecht ist.
+* Die https://de.wikipedia.org/wiki/Unabh%C3%A4ngigkeitserkl%C3%A4rung_der_Vereinigten_Staaten[Unabhängigkeitserklärung der USA] manifestiert die Gleicheit aller Menschen, doch die Geschichte zeigt, dass Farbigen dieses Recht nicht gewährt wird.
+
+Dieses Manifest möchte solche Doppelmoral abschaffen.
+Dies impliziert, dass es keine Immunität für extrem Reiche und Mächtige, Diplomaten oder Geheimdienste gibt (die es letztlich in dieser Form dann nicht mehr gibt).
 Kein Mensch steht über einem anderen Mensch.
+Menschen folgen höchstens freiwillig einem anderem Menschen, der ihr Vertrauen und ihre Loyalität hat.
 
-== Quellen
+== Links
 
 * https://www.gesetze-im-internet.de/gg/art_3.html
+* https://github.com/thanktoken/thanktoken.github.io/wiki/Inclusive
