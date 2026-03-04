@@ -1,7 +1,21 @@
 = Geldsystem
 
-Ein Geldsystem soll den Menschen und der Gemeinschft dienen.
-Es soll jedem Menschen Zugang und Teilhabe ermöglichen.
-Ziel ist es, die Kooperation der Menschen zu fördern.
-Individuen müssen anonym Zahlungen tätigen können.
-Staatlische Zahlungen sollen hingegen transparent sein, um Vertrauen zu schaffen und Misbrauch zu verhindern.
+. Das Geldsystem soll den Menschen und der Gemeinschft dienen.
+Es soll jedem Menschen Zugang und Teilhabe ermöglichen. Ziel ist es, die Kooperation der Menschen zu fördern.
+. Das Geldsystem soll fair sein und eine neutrale Verteilungswirkung haben.
+. Individuen müssen anonym Zahlungen tätigen können.
+. Staatlische Zahlungen sollen hingegen transparent sein, um Vertrauen zu schaffen und Misbrauch zu verhindern.
+. Die Gesetzgebung erlaubt es explizit, alternative Geldsysteme zu entwerfen und in Gemeinschaften von Freiwilligen zu erproben, um eine Offenheit und Weiterentwicklung von Geldsystemen zu fördern.
+
+== Kommentar
+
+Unser vorherrschendes Geldsystem basiert auf der https://de.wikipedia.org/wiki/Geldsch%C3%B6pfung#Giralgeldsch%C3%B6pfung_durch_die_Gesch%C3%A4ftsbanken[Schöfpung von Geld durch Kredite].
+Daraus ergibt sich eine extreme Ungerechtigkeit durch Ungleichverteilung (siehe https://www.oxfam.org/[Oxfam]).
+Zusätzlich fördert dieses Geldsystem in überhötem Maße den Egoismus und führt zu Ausbeutung und Kriegen.
+
+Wir brauchen ein Geldsystem, welches uns nicht vereinzelt und gegeneinander ausspielt, sondern verbindet und eint.
+Zudem soll es nachhaltiges Wirtschaften fördern anstatt der Ausbeutung unseres Planeten.
+
+== Links
+
+* https://github.com/thanktoken/thanktoken.github.io/wiki/Fair
