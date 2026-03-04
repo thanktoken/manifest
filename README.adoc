@@ -1,2 +1,10 @@
-# manifest
-Collaborative collection of principles
+= Manifest
+
+The project https://github.com/thanktoken/thanktoken.github.io/wiki[Thanktoken] is an utopia for a new social engineering.
+It has the goal to create a system of exchange, trade, and collaboration with priority on equity and participation.
+
+This repository aims to create a manifest of a society living these values.
+
+== Deutsch
+
+Eine deutsche Version ist link:DE/Readme.adoc[hier] zu finden.
