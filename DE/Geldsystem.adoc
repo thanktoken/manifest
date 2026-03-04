@@ -1,0 +1,7 @@
+= Geldsystem
+
+Ein Geldsystem soll den Menschen und der Gemeinschft dienen.
+Es soll jedem Menschen Zugang und Teilhabe ermöglichen.
+Ziel ist es, die Kooperation der Menschen zu fördern.
+Individuen müssen anonym Zahlungen tätigen können.
+Staatlische Zahlungen sollen hingegen transparent sein, um Vertrauen zu schaffen und Misbrauch zu verhindern.
