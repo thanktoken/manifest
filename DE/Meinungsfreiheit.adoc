@@ -4,6 +4,24 @@
 . Diese Rechte finden ihre Schranken in den Vorschriften der allgemeinen Gesetze, den gesetzlichen Bestimmungen zum Schutze der Jugend und in dem Recht der persönlichen Ehre.
 . Kunst und Wissenschaft, Forschung und Lehre sind frei. Die Freiheit der Lehre entbindet nicht von der Treue zur Verfassung.
 
-== Quellen
+== Kommentar
+
+Die Meinungsfreiheit ist ein sehr hohes Gut.
+Sie gilt in vielen demokratischen Staaten, aber befindet sich in großer Gefahr.
+Gleichzeitig ist die Macht der Medien inkl. der sozialen Medien ausgeartet, was die Meinungsfreiheit durch Manipulation gefährdet.
+Künstliche Intelligenz (KI) ermöglicht es heute mit wenig Aufwand sehr effektiv Manipulation und Desinformation auszuüben.
+
+Gleichzeitig sollte jeder, der seine Meinung öffentlich äußert, dies auch möglichst angemessen und respektvoll tun.
+Im Internet hat sich teilweise eine Kultur von Respektlosigkeit und Hassbotschaften etabliert.
+
+Durch unser vorherrschendes Geldsystem sind unsere großen Medien auf Gewinnmaximierung ausgerichtet.
+Durch Werbefinanzierung wird alles darauf optimiert, die Aufmerksamkeit der Massen zu gewinnen und möglichst viele Klicks zu generieren.
+Die Qualität und der Wahrheitsgehalt der Inhalte gerät mehr und mehr in den Hintergrund.
+Damit werden wir früher oder später in KI-Müll ertrinken und unseren Qualitätsjournalismus beerdigen.
+
+Der Auftrag an eine gesunde Demokratie ist es folglich, neue Wege für die Medien von morgen zu finden.
+Können wir die Nutzer beteiligen, um durch Schwarmintelligenz sachtliche, vielseitige, gute und wertvolle Inhalte zu fördern während Fake-News sachlich und fakten-basiert entlarvt werden kann?
+
+== Links
 
 * https://www.gesetze-im-internet.de/gg/art_5.html
