@@ -13,3 +13,4 @@ Leitsätze:
 * link:Geldsystem.adoc[Geldsystem]
 * link:Meinungsfreiheit.adoc[Meinungsfreiheit]
 * link:Universalwissen.adoc[Universalwissen]
+* link:Demokratie.adoc[Demokratie]
