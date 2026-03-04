@@ -1,10 +1,10 @@
 = Universalwissen
 
-Universalwissen soll für alle frei zugänglich sein.
-Sämtliche Erkenntnisse und Errungenschaften von Menschen sollen der gesamten Gesellschaft zur Verfügung stehen.
-Wissen darf nicht privatisiert und exklusiv gehandelt werden.
+. Universalwissen soll für alle frei zugänglich sein.
+. Sämtliche Erkenntnisse und Errungenschaften von Menschen sollen der gesamten Gesellschaft zur Verfügung stehen.
+. Universalwissen darf nicht privatisiert und exklusiv gehandelt werden.
 
-== Auslegung
+== Kommentar
 
 Das Wort `Wissen` ist zu allgemein und umfasst auch private Aspekte wie z.B. Informationen über ein Individum, 
 welche aufgrund des Persönlichkeitsrechts zu schützen sind.
