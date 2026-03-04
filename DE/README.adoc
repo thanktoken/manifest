@@ -11,4 +11,5 @@ Leitsätze:
 * link:Gleichberechtigung.adoc[Gleichberechtigung]
 * link:Gemeingut.adoc[Gemeingut]
 * link:Geldsystem.adoc[Geldsystem]
+* link:Meinungsfreiheit.adoc[Meinungsfreiheit]
 * link:Universalwissen.adoc[Universalwissen]
