@@ -7,4 +7,4 @@ This repository aims to create a manifest of a society living these values.
 
 == Deutsch
 
-Eine deutsche Version ist link:DE/Readme.adoc[hier] zu finden.
+Eine deutsche Version ist link:DE/README.adoc[hier] zu finden.
