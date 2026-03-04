@@ -1,6 +1,6 @@
 = Manifest
 
-Das Projekt https://github.com/thanktoken/thanktoken.github.io/wiki[Thanktoken] ist eine Utopi für eine neue Sozialtechnik.
+Das Projekt https://github.com/thanktoken/thanktoken.github.io/wiki[Thanktoken] ist eine Utopie für eine neue Sozialtechnik.
 Sie hat das Ziel ein System für den Handel, Tausch und die Kollaboration mit Priorität auf Gleichberechtigung und Teilhabe zu erzeugen.
 
 Dieses Repository dient dazu ein Manifest für eine Gesellschaft zu schaffen, welche diese Werte lebt.
