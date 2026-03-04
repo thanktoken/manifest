@@ -1,0 +1,27 @@
+= Demokratie
+
+. Die Herrschaft geht vom Volk aus.
+. Entscheidungen können nur getroffen werden, wenn sämtliche Betroffene daran beteiligt werden.
+. Das oberste Ziel ist stets die Findung einer Lösung, die für sämtliche Betroffene angemessen ist.
+. Führt eine Entscheidung zu einem Nachteil eines unmittelbar Betroffenen, so ist eine Einigung bzw. ein Ausgleich mit diesem zu erzielen.
+. Wahlen über gesellschaftliche Entscheidungen müssen allgemein, unmittelbar, frei, gleich und geheim durchgeführt werden.
+
+== Kommentar
+
+Demokratie beteutet Volksherrschaft also das Volk entscheidet über unsere Entwicklung und Zukunft.
+In unserem vorherrschenden System haben wir überwiegend ein System der Pyramidenhierarchie etabliert:
+Eine kleine Gruppe von Menschen wählt Vertreter, die über ihre Anliegen entscheiden.
+Auf der jeweils nächst höheren Ebene werden Gruppen von Menschen wieder durch Vertreter repräsentiert.
+Im Extremfall geht das bis zum hinauf zum Präsidenten oder gar Diktator, der extreme Macht inne hat.
+Dieses System ist sehr anfällig für Korruption und Missbrauch.
+Was wäre, wenn alle Menschen mitbestimmen und entscheiden könnten?
+Das würde Missbrauch effektiv verhindern, denn es ist offensichtlich nicht möglich alle Menschen zu bestechen.
+Umgekehrt ist es jedoch durch Einfluss und Kontrolle von Medien möglich, viele Menschen in ihrer Meinung zu manipulieren.
+Daher erfordert eine direkte Demokratie ein hohes Maß an Bildung, Freiheit und Einsicht.
+Sobald wir bereit sind, in diese Werte zu investieren und den Menschen Verantwortung zuzutrauen, können wir eine Demokratie im wahrsten Sinne ihrer ursprünglichen Bedeutung aufbauen.
+
+== Links
+
+* https://de.wikipedia.org/wiki/Demokratie
+* https://www.gesetze-im-internet.de/gg/art_20.html
+* https://github.com/thanktoken/thanktoken.github.io/wiki/Democratic
