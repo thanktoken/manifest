@@ -8,9 +8,10 @@ Das Manifest soll dabei unabhängig von der konkreten Idee von Thanktoken sein u
 
 Leitsätze:
 
-* link:Gleichberechtigung.adoc[Gleichberechtigung]
-* link:Gemeingut.adoc[Gemeingut]
-* link:Geldsystem.adoc[Geldsystem]
-* link:Meinungsfreiheit.adoc[Meinungsfreiheit]
-* link:Universalwissen.adoc[Universalwissen]
 * link:Demokratie.adoc[Demokratie]
+* link:Geldsystem.adoc[Geldsystem]
+* link:Gemeingut.adoc[Gemeingut]
+* link:Gleichberechtigung.adoc[Gleichberechtigung]
+* link:Meinungsfreiheit.adoc[Meinungsfreiheit]
+* link:Menschenwuerde.adoc[Meinungsfreiheit]
+* link:Universalwissen.adoc[Universalwissen]
