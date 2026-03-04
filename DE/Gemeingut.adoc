@@ -6,3 +6,7 @@
 . Die Gesellschaft kann lediglich private Nutzungsrechte an diesen Ressourcen auf Zeit vergeben.
 . Die Ressourcen müssen verträglich behandelt werden, um nachfolgenden Generationen den gleichen Nutzen zu bieten.
 . Wird die Verträglichkeit verletzt, so erlischt das private Nutzungsrecht fristlos.
+
+== Links
+
+* https://github.com/thanktoken/thanktoken.github.io/wiki/LandReform
