@@ -4,7 +4,7 @@ Das Projekt https://github.com/thanktoken/thanktoken.github.io/wiki[Thanktoken] 
 Sie hat das Ziel ein System für den Handel, Tausch und die Kollaboration mit Priorität auf Gleichberechtigung und Teilhabe zu erzeugen.
 
 Dieses Repository dient dazu ein Manifest für eine Gesellschaft zu schaffen, welche diese Werte lebt.
-Das Manifest soll dabei unabhängig von der konkreten Idee von Thanktoken sein und damit auch für Alternativen ähnlicher Ausrichtung nützen.
+Das Manifest soll dabei unabhängig von der konkreten Idee von Thanktoken sein und damit auch für https://github.com/thanktoken/thanktoken.github.io/wiki/AlternativeCurrencies[Alternativen ähnlicher Ausrichtung] nützen.
 
 Leitsätze:
 
