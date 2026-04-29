@@ -1,8 +1,9 @@
 = Demokratie
 
-. Die Herrschaft geht vom Volk aus.
+. Entscheidungen werden gemeinschaftlich getroffen.
 . Entscheidungen können nur getroffen werden, wenn sämtliche Betroffene daran beteiligt werden.
-. Das oberste Ziel ist stets die Findung einer Lösung, die für sämtliche Betroffene angemessen ist.
+. Betroffene sind eingeladen, ihre Interessen darzulegen und Verständnis für ihre Position zu vermitteln.
+. Das oberste Ziel ist stets die Findung einer Lösung, die für sämtliche Betroffene angemessen und nachvollziehbar ist.
 . Führt eine Entscheidung zu einem Nachteil eines unmittelbar Betroffenen, so ist eine Einigung bzw. ein Ausgleich mit diesem zu erzielen.
 . Wahlen über gesellschaftliche Entscheidungen müssen allgemein, unmittelbar, frei, gleich und geheim durchgeführt werden.
 . Durch direkte Demokratie werden alle relevanten Entscheidungen von der Bevölkerung getroffen. Dabei richtet sich die Beteiligung nach der Betroffenheit.
